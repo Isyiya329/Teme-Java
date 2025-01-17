@@ -12,7 +12,6 @@ class Carte {
     private String titlu;
     private String autor;
 
-    // Getters and Setters
     public String getIsbn() {
         return isbn;
     }
