@@ -1,0 +1,28 @@
+[ [ "Problema2.SetTobe", {
+  "producator" : "Pearl",
+  "pret" : 3500.0,
+  "tip" : "SetTobe",
+  "nrTobe" : 4,
+  "nrCinele" : 2
+} ], [ "Problema2.Chitara", {
+  "producator" : "Gibson",
+  "pret" : 2500.0,
+  "tip" : "Chitara",
+  "nrCorzi" : 6
+} ], [ "Problema2.SetTobe", {
+  "producator" : "Roland",
+  "pret" : 5000.0,
+  "tip" : "SetTobe",
+  "nrTobe" : 5,
+  "nrCinele" : 3
+} ], [ "Problema2.Chitara", {
+  "producator" : "Fender",
+  "pret" : 3200.0,
+  "tip" : "Chitara",
+  "nrCorzi" : 12
+} ], [ "Problema2.Chitara", {
+  "producator" : "Yamaha",
+  "pret" : 1800.0,
+  "tip" : "Chitara",
+  "nrCorzi" : 6
+} ] ]
