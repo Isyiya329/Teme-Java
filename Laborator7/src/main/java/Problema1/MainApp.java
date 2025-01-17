@@ -40,7 +40,7 @@ public class MainApp
 
             System.out.print("Alege o opțiune: ");
             option = scanner.nextInt();
-            scanner.nextLine(); // Consum newline
+            scanner.nextLine();
 
             switch (option) {
                 case 1:
